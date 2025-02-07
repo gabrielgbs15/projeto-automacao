@@ -1,4 +1,4 @@
-# Como navegar até um Site 
+# Como navegar até um site 
 import webbrowser
 
 # Abrir o navegador 
